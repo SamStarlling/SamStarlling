@@ -15,5 +15,9 @@ Here are some ideas to get you started:
 # Sâmela Barbosa
 
 ## 🚀 Sobre mim
-  Sou apaixonada por tecnologia, meu propósito é gerar impacto positivo na vida das pessoas através dos meus projetos, estou iniciando minha jornada como `desenvolvedora full stack`.
+  Sou apaixonada por tecnologia, meu propósito é gerar impacto positivo na vida das pessoas através de soluções inovadoras. Não é sobre reinventar a roda, mas sim fazer melhorias que irão facilitar a vida dos usuários. Estou no início da minha jornada como `desenvolvedora full stack jr`.
+  <br>
+  Quanto mais estudo e entendo a tecnologia mais maravilhada fico com o poder e o impacto que poucas linhas de código geram tanto em um sistema quanto na vida das pessoas.
+  <br>
+  <br>
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/s%C3%A2mela-barbosa-web-developer/)
