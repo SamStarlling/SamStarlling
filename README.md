@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ela/dela
 - ⚡ Fun fact: ...
 -->
+# Sâmela Barbosa
+
+## 🚀 Sobre mim
+  Sou apaixonada por tecnologia, meu propósito é gerar impacto positivo na vida das pessoas através dos meus projetos, estou iniciando minha jornada como `desenvolvedora full stack`.
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/s%C3%A2mela-barbosa-web-developer/)
