@@ -5,6 +5,7 @@
 - 🌱 I’m currently learning Nest.js
 
 - 📫 How to reach me: samelabarbosa.06@gmail.com
+
 - 🆔 Pronouns: she/her
 <br>
 
