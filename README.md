@@ -1,4 +1,4 @@
-# Hi, I'm Sâmela Barbosa
+<h1 align="center">Hi, I'm Sâmela Barbosa</h1>
 
 - 🔭 I’m currently working as a software engineer at @Tiendanube
 
@@ -19,10 +19,10 @@
 </div>
 <br>
 </ div>
+ 
   
-## Skills
-  
-<div style="display: inline_block"><br>
+<div style="display: inline_block" align="center"><br>
+  <text>Skills: </text>
   <img align="center" alt="Sam-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Sam-Nest" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" />
   <img align="center" alt="Sam-Node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
