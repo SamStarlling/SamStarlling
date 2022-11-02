@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Sâmela Barbosa</h1>
 
-- 🔭 I’m currently working as a software engineer at @Tiendanube
+- 🔭 I'm currently working as a software engineer focusing on the backend at @Tiendanube
 
 - 🌱 I’m currently learning Nest.js
 
