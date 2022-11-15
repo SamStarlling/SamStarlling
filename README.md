@@ -7,7 +7,7 @@
 
 - 📫 How to reach me: samelabarbosa.06@gmail.com
 
-- 🆔 Pronouns: she/her :woman:
+- 🆔 Pronouns: she/her
 
 <br>
 <div>
