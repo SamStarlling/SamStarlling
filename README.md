@@ -14,9 +14,6 @@
   <div align="center">
     
   <a href="https://github.com/SamStarlling">
-<!--Count correct quantity of prs is necessary has my owner api
-Follow steps: https://github.com/anuraghazra/github-readme-stats/issues/1#issuecomment-1279712669
--->
     
   <img height=200 width=50% src="https://readme-stats-by-8lmks4fxz-samstarlling.vercel.app/api?username=SamStarlling&show_icons=true&count_private=true&hide_border=true&include_all_commits=true&role=OWNER,COLLABORATOR&theme=dracula" alt="Sâmela Babosa's Github stats" />
   <img height=200 width=40% src="https://readme-stats-by-8lmks4fxz-samstarlling.vercel.app//api/top-langs?username=SamStarlling&theme=dracula&layout=compact&langs_count=10&hide_border=true&role=OWNER,COLLABORATOR&count_private=true" alt="Sâmela Babosa's Language stats" />
