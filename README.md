@@ -5,6 +5,7 @@
 
 - 🌱 I'm currently learning Design Patterns applied in Typescript
 
+
 - 📫 How to reach me: samelabarbosa.06@gmail.com
 
 - 🆔 Pronouns: she/her
