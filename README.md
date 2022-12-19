@@ -2,7 +2,6 @@
 
 - 🔭 I'm currently working as a software engineer at @Tiendanube
 
-
 - 🌱 I'm currently learning Design Patterns applied in Typescript
 
 - 📫 How to reach me: samelabarbosa.06@gmail.com
