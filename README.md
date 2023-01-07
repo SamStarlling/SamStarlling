@@ -1,6 +1,5 @@
 <h1>Hi, I'm Sâmela Barbosa</h1>
 - 🔭 I'm currently working as a software engineer at @Tiendanube
-
 - 🌱 I'm currently learning Design Patterns applied in Typescript
 
 
