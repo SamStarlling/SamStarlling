@@ -1,14 +1,10 @@
 <h1>Hi, I'm Sâmela Barbosa</h1>
-- 🔭 I'm currently working as a software engineer at @Tiendanube
-<br>
-
-- 🌱 I'm currently learning Design Patterns applied in Typescript
-<br>
-- 📫 How to reach me: samelabarbosa.06@gmail.com
-<br>
-- 🆔 Pronouns: she/her
-<br>
-<br>
+<ul> 
+<li>🔭 I'm currently working as a software engineer at @Tiendanube</li>
+<li>🌱 I'm currently learning Design Patterns applied in Typescript
+<li>📫 How to reach me: samelabarbosa.06@gmail.com</li>
+<li>🆔 Pronouns: she/her</li>
+</ ul>
 <div>
   <div align="center">
     
