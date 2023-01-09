@@ -5,6 +5,8 @@
 <li>📫 How to reach me: samelabarbosa.06@gmail.com</li>
 <li>🆔 Pronouns: she/her</li>
 </ ul>
+<br>
+<br>
 <div>
   <div align="center">
     
