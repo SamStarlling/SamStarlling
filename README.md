@@ -4,7 +4,7 @@
 <li>🌱 I'm currently learning Design Patterns applied in Typescript</li>
 <li>📫 How to reach me: samelabarbosa.06@gmail.com</li>
 <li>🆔 Pronouns: she/her</li>
-</ ul>
+</ul>
 <br>
 <br>
 <div>
