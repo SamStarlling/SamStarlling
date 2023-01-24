@@ -17,9 +17,11 @@
   <img height=200 width=40% src="https://readme-stats-by-8lmks4fxz-samstarlling.vercel.app//api/top-langs?username=SamStarlling&theme=dracula&layout=compact&langs_count=10&hide_border=true&role=OWNER,COLLABORATOR&count_private=true" alt="Sâmela Babosa's Language stats" />
   <br>
   <br>
+  <!--
   <img align="center" height="180em" src="https://streak-stats.demolab.com?user=SamStarlling&theme=dark&date_format=M%20j%5B%2C%20Y%5D">
   </div>
   <br>
+  -->
 </ div>
  
   
