@@ -10,7 +10,6 @@
 
 <div>
   <div align="center">
-    
   <a href="https://github.com/SamStarlling">
 
   <img height=200 width=50% src="https://readme-stats-by-8lmks4fxz-samstarlling.vercel.app/api?username=SamStarlling&show_icons=true&count_private=true&hide_border=true&include_all_commits=true&role=OWNER,COLLABORATOR&theme=dracula" alt="Sâmela Babosa's Github stats" />
