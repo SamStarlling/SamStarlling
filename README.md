@@ -1,6 +1,5 @@
 <h1>Hi, I'm Sâmela Barbosa</h1>
 <ul>
-  
 <li>🔭 I'm currently working as a software engineer at @Tiendanube</li>
 <li>🌱 I'm currently learning Unit Test</li>
 <li>📫 How to reach me: samelabarbosa.06@gmail.com</li>
